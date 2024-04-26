@@ -1,3 +1,14 @@
+## 0.2.1 (2024-04-26)
+
+
+### 🩹 Fixes
+
+- **ui:** fix issues ([fab1854](https://github.com/isaldin/nx-monorepos-publishing-test/commit/fab1854))
+
+### ❤️  Thank You
+
+- ilya saldin @isaldin
+
 ## 0.1.1 (2024-04-26)
 
 
