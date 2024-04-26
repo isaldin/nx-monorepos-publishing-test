@@ -4,4 +4,4 @@ export function ui(): string {
   return core() + '::' + UI;
 }
 
-const UI = 'ui';
+const UI = '!ui';
