@@ -1,3 +1,14 @@
+## 0.1.1 (2024-04-26)
+
+
+### 🩹 Fixes
+
+- **core:** fix issues with core
+
+### ❤️  Thank You
+
+- ilya saldin
+
 ## 0.5.0 (2024-04-26)
 
 This was a version bump only, there were no code changes.
