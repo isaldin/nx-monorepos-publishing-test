@@ -2,4 +2,4 @@ export function core(): string {
   return CORE;
 }
 
-const CORE = 'core'
+const CORE = '!!core'
